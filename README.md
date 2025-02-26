@@ -1,2 +1,12 @@
 # IkshaFoundationWebApp
-A React-based app to search and view schools in Bengaluru. Users can filter by name or address, see locations on an interactive map, and navigate paginated results. Built with React, Node.js, Express, and MongoDB for efficient data fetching and filtering.
+
+School Collaboration App
+
+This app helps users search for schools in Bengaluru using a dynamic search bar and pagination. It fetches school details from a database and displays them with an interactive map. Built with React, Node.js, Express, and MongoDB, it ensures efficient data fetching and filtering.
+
+Features:
+
+🔍 Search schools by name or address
+📍 View school locations on an interactive map
+📄 Paginated results for better browsing
+🚀 Built with React (frontend) and Express + MongoDB (backend)
