@@ -7,6 +7,9 @@ This app helps users search for schools in Bengaluru using a dynamic search bar 
 Features:
 
 🔍 Search schools by name or address
+
 📍 View school locations on an interactive map
+
 📄 Paginated results for better browsing
+
 🚀 Built with React (frontend) and Express + MongoDB (backend)
