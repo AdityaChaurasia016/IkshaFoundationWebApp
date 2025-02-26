@@ -1,0 +1,332 @@
+[
+  {
+    "city": "Bangalore",
+    "areas": [
+      {
+        "name": "Malleswaram",
+        "schools": [
+          {
+            "name": "Kendriya Vidyalaya, Malleswaram",
+            "location": "18th Cross, Margosa Road, Malleswaram, Bangalore",
+            "year": 1965,
+            "students": 1800,
+            "resources": ["Library", "Computer Lab", "Science Lab", "Sports Ground"],
+            "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXoBiiDA5c2KHzq8mUPEVr7iyBqF0mk9a8g&s","https://content3.jdmagicbox.com/v2/comp/bangalore/j1/080pxx80.xx80.140731222937.c4j1/catalogue/kendriya-vidyalaya-bangalore-city-bangalore-schools-18i5ae8.jpg"]
+          },
+          {
+            "name": "Malleswaram High School",
+            "location": "Malleswaram, Bangalore",
+            "year": 1980,
+            "students": 1200,
+            "resources": ["Library", "Science Lab", "Sports Facilities"],
+            "images": ["https://clunymalleswaram.org/assets/imgs/newimgs/sbanner.png","https://content.jdmagicbox.com/v2/comp/bangalore/81/080p38481/catalogue/cluny-convent-high-school-malleswaram-bangalore-schools-3n78uc9.jpg"]
+          }
+        ]
+      },
+      {
+        "name": "Richmond Town",
+        "schools": [
+          {
+            "name": "Bangalore Military School",
+            "location": "Richmond Town, Bangalore",
+            "year": 1946,
+            "students": 340,
+            "resources": ["Library", "Science Lab", "Sports Facilities", "Swimming Pool"],
+            "images": ["https://www.yayskool.com/images/school/bangalore-military-school-bengaluru-436315924.png","https://content.jdmagicbox.com/comp/bangalore/r5/080pxx80.xx80.140608161910.a6r5/catalogue/bangalore-military-school-richmond-road-bangalore-schools-10bs4gx-250.jpg"]
+          },
+          {
+            "name": "Richmond Town High School",
+            "location": "Richmond Town, Bangalore",
+            "year": 1975,
+            "students": 900,
+            "resources": ["Library", "Sports Ground", "Computer Lab"],
+            "images": ["https://images.ezyschooling.com/prod/resize?url=https://d3bat55ebwjhsf.cloudfront.net/schools/cover/user_root_user%40ezy.com/IMG20230520160203.jpg&bucket=prod&width=400","https://content.jdmagicbox.com/v2/comp/bangalore/p8/080pxx80.xx80.100209130709.l1p8/catalogue/cathedral-composite-high-school-richmond-road-bangalore-schools-0qc8.jpg"]
+          }
+        ]
+      },
+      {
+        "name": "Shivaji Nagar",
+        "schools": [
+          {
+            "name": "St. Joseph's High School",
+            "location": "Sultan Rd, New Tharagupet, Shivaji Nagar, Bangalore",
+            "year": 1867,
+            "students": 1500,
+            "resources": ["Library", "Science Lab", "Sports Club", "NCC"],
+            "images": ["https://karnatakajesuits.org/storage/institutions/sub/1629637311sjbhs.jpg","https://content.jdmagicbox.com/v2/comp/bangalore/33/080p13433/catalogue/st-josephs-indian-high-school-vittal-mallya-road-bangalore-schools-state-syllabus-4l0ch8p.jpg"]
+          },
+          {
+            "name": "VKO School, Shivaji Nagar",
+            "location": "Shivaji Nagar, Bangalore",
+            "year": 1970,
+            "students": 1000,
+            "resources": ["Library", "Science Lab", "Sports Facilities"],
+            "images": ["https://images.deccanchronicle.com/dc-Cover-biohd8mpbph77f7dhd7j7kjqi2-20170616034102.Medi.jpeg","https://images.deccanherald.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticle_images%2F2020%2F05%2F19%2Ffile6yt5vv00hg71dnhegbrd-980454563-1560539843.jpg?auto=format%2Ccompress&fmt=webp&fit=max&format=webp&q=70&w=400&dpr=2"]
+          }
+        ]
+      },
+      {
+        "name": "Vasanth Nagar",
+        "schools": [
+          {
+            "name": "St Mary's Public School, Vasanth Nagar",
+            "location": "Vasanth Nagar, Bangalore",
+            "year": 1975,
+            "students": 800,
+            "resources": ["Library", "Computer Lab", "Playground"],
+            "images": ["https://d3bat55ebwjhsf.cloudfront.net/schools/cover/user_root_user%40ezy.com/st-mary-s-public-school-queens-road-bangalore-convent-scho.webp"]
+          },
+          {
+            "name": "Vasanth Nagar International School",
+            "location": "Vasanth Nagar, Bangalore",
+            "year": 1995,
+            "students": 1300,
+            "resources": ["Library", "Auditorium", "Science Labs"],
+            "images": ["https://www.edustoke.com/assets/uploads-new/thumbs-resize/42ac7fb2-a178-447c-892b-3f29b509efb6.jpg"]
+          }
+        ]
+      },
+      {
+        "name": "Seshadripuram",
+        "schools": [
+          {
+            "name": "Seshadripuram High School, Seshadripuram",
+            "location": "Seshadripuram, Bangalore",
+            "year": 1980,
+            "students": 600,
+            "resources": ["Library", "Science Lab", "Sports Facilities"],
+            "images": ["https://d3bat55ebwjhsf.cloudfront.net/schools/cover/user_root_user%40ezy.com/01_127048.jpg"]
+          },
+          {
+            "name": "Seshadripuram Academy",
+            "location": "Seshadripuram, Bangalore",
+            "year": 1990,
+            "students": 1100,
+            "resources": ["Library", "Computer Lab", "Playground"],
+            "images": ["https://content.jdmagicbox.com/v2/comp/bangalore/z1/080pxx80.xx80.140510131001.f2z1/catalogue/seshadripuram-academy-of-business-studies-kengeri-satelite-town-bangalore-commerce-colleges-pwm8pj.jpg"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Mysore",
+    "areas": [
+      {
+        "name": "Chamundi Hills",
+        "schools": [
+          {
+            "name": "Mysore Public School",
+            "location": "Chamundi Hills Road, Mysore",
+            "year": 1990,
+            "students": 1200,
+            "resources": ["Library", "Computer Lab", "Swimming Pool", "Science Lab"],
+            "images": []
+          },
+          {
+            "name": "Chamundi Hills High School",
+            "location": "Chamundi Hills, Mysore",
+            "year": 1985,
+            "students": 950,
+            "resources": ["Library", "Playground", "Science Lab"],
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "Jayanagar",
+        "schools": [
+          {
+            "name": "JSS High School",
+            "location": "Jayanagar, Mysore",
+            "year": 1968,
+            "students": 900,
+            "resources": ["Library", "Playground", "Sports Facilities"],
+            "images": []
+          },
+          {
+            "name": "Jayanagar Government School",
+            "location": "Jayanagar, Mysore",
+            "year": 1972,
+            "students": 600,
+            "resources": ["Library", "Sports Facilities"],
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "Kuvempunagar",
+        "schools": [
+          {
+            "name": "Kuvempu Memorial School",
+            "location": "Kuvempunagar, Mysore",
+            "year": 1975,
+            "students": 750,
+            "resources": ["Library", "Science Lab", "Computer Lab"],
+            "images": []
+          },
+          {
+            "name": "Kuvempunagar High School",
+            "location": "Kuvempunagar, Mysore",
+            "year": 1980,
+            "students": 800,
+            "resources": ["Library", "Computer Lab", "Science Lab"],
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "Vijayanagar",
+        "schools": [
+          {
+            "name": "Sri Ramakrishna Vidyashala",
+            "location": "Vijayanagar, Mysore",
+            "year": 1953,
+            "students": 1300,
+            "resources": ["Library", "Auditorium", "Sports Facilities", "Science Labs"],
+            "images": []
+          },
+          {
+            "name": "Vijayanagar Public School",
+            "location": "Vijayanagar, Mysore",
+            "year": 1992,
+            "students": 1100,
+            "resources": ["Library", "Sports Ground", "Computer Lab"],
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "Yadavagiri",
+        "schools": [
+          {
+            "name": "Mahajana High School",
+            "location": "Yadavagiri, Mysore",
+            "year": 1984,
+            "students": 700,
+            "resources": ["Library", "Computer Lab", "Playground"],
+            "images": []
+          },
+          {
+            "name": "Yadavagiri Government School",
+            "location": "Yadavagiri, Mysore",
+            "year": 1990,
+            "students": 600,
+            "resources": ["Library", "Science Lab"],
+            "images": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "city": "Udupi",
+    "areas": [
+      {
+        "name": "Manipal",
+        "schools": [
+          {
+            "name": "Manipal Academy School",
+            "location": "Manipal, Udupi",
+            "year": 1985,
+            "students": 1500,
+            "resources": ["Library", "Science Lab", "Playground", "Computer Lab"],
+            "images": []
+          },
+          {
+            "name": "Manipal International School",
+            "location": "Manipal, Udupi",
+            "year": 1995,
+            "students": 1100,
+            "resources": ["Library", "Sports Facilities", "Auditorium"],
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "Kadiyali",
+        "schools": [
+          {
+            "name": "Government High School, Kadiyali",
+            "location": "Kadiyali, Udupi",
+            "year": 1972,
+            "students": 500,
+            "resources": ["Library", "Playground"],
+            "images": []
+          },
+          {
+            "name": "Kadiyali Public School",
+            "location": "Kadiyali, Udupi",
+            "year": 1980,
+            "students": 700,
+            "resources": ["Library", "Sports Facilities"],
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "Brahmagiri",
+        "schools": [
+          {
+            "name": "Sri Krishna High School",
+            "location": "Brahmagiri, Udupi",
+            "year": 1955,
+            "students": 800,
+            "resources": ["Library", "Science Lab", "Sports Facilities"],
+            "images": []
+          },
+          {
+            "name": "Brahmagiri School",
+            "location": "Brahmagiri, Udupi",
+            "year": 1960,
+            "students": 950,
+            "resources": ["Library", "Sports Ground", "Computer Lab"],
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "Kunjibettu",
+        "schools": [
+          {
+            "name": "Little Flower High School",
+            "location": "Kunjibettu, Udupi",
+            "year": 1995,
+            "students": 600,
+            "resources": ["Library", "Playground", "Computer Lab"],
+            "images": []
+          },
+          {
+            "name": "Kunjibettu Government School",
+            "location": "Kunjibettu, Udupi",
+            "year": 1980,
+            "students": 750,
+            "resources": ["Library", "Science Lab"],
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "Malpe",
+        "schools": [
+          {
+            "name": "St. Mary's High School",
+            "location": "Malpe, Udupi",
+            "year": 1963,
+            "students": 950,
+            "resources": ["Library", "Sports Facilities", "Science Lab"],
+            "images": []
+          },
+          {
+            "name": "Malpe International School",
+            "location": "Malpe, Udupi",
+            "year": 2000,
+            "students": 800,
+            "resources": ["Library", "Swimming Pool", "Computer Lab"],
+            "images": []
+          }
+        ]
+      }
+    ]
+  }
+]
