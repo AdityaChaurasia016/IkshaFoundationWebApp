@@ -14,7 +14,8 @@ const schoolRoutes = require("./routes/schoolRoutes");
 app.use(express.json());
 
 // app.use(cors());
-app.use(cors({ origin: "http://localhost:5173", credentials: true }));
+// http://localhost:5173
+app.use(cors({ origin: "https://iksha-foundation-web-app-frontend.vercel.app/", credentials: true }));
 
 
 
