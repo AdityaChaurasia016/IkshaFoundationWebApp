@@ -8,9 +8,10 @@ const BookList = () => {
   const [Data, setData] = useState([]);
 
   const fetchData = async () => {
-    try {
-      const resp = await axios.get("http://localhost:5000/books/getbooks");
-      setData(resp.data);
+    try {                         
+      // http://localhost:5000/books/getbooks
+      const resp = await axios.get("https://iksha-foundation-web-app-api.vercel.app/books/getbooks");
+      setData(resp.data); 
     } catch (error) {
       console.log("Not working");
     }

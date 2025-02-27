@@ -22,7 +22,8 @@ const UpdateBook = () => {
   useEffect(() => {
     const fetchBook = async () => {
       try {
-        const resp = await axios.get(`http://localhost:5000/books/getbooks/${id}`);
+        // `http://localhost:5000/books/getbooks/${id}`
+        const resp = await axios.get(`https://iksha-foundation-web-app-api.vercel.app/books/getbooks/${id}`);
         setBook(resp.data);
       } catch (error) {
         console.log("Error fetching book data:", error);
@@ -39,7 +40,8 @@ const UpdateBook = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.put(`http://localhost:5000/books/updatebook/${id}`, book);
+      // `http://localhost:5000/books/updatebook/${id}`
+      await axios.put(`https://iksha-foundation-web-app-api.vercel.app/books/updatebook/${id}`, book);
       alert("Book updated successfully");
       navigate("/");
     } catch (error) {
@@ -52,7 +54,9 @@ const UpdateBook = () => {
     if (!isConfirmed) return;
 
     try {
-      await axios.delete(`http://localhost:5000/books/deletebook/${id}`);
+      // `http://localhost:5000/books/deletebook/${id}`
+
+      await axios.delete(`https://iksha-foundation-web-app-api.vercel.app/books/deletebook/${id}`);
       alert("Book deleted successfully");
       navigate("/BookList");
     } catch (error) {
