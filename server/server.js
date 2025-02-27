@@ -15,7 +15,7 @@ app.use(express.json());
 
 // app.use(cors());
 // http://localhost:5173
-app.use(cors({ origin: "https://iksha-foundation-web-app-frontend.vercel.app/", credentials: true }));
+app.use(cors({ origin: "https://iksha-foundation-web-app-frontend.vercel.app", credentials: true }));
 
 
 
